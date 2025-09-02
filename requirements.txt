@@ -5,3 +5,4 @@ ollama
 langchain-ollama
 chromadb
 pypdf
+langchain_experimental
